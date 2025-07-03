@@ -1,6 +1,6 @@
 # 🔠 Quest React Basico - Vite + React
 Este é um projeto simples criado com Vite e React que colore e transforma um texto para maiúsculo (uppercase) utilizando JS, e com um componente Button com um evento de clique que
-apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é **<insira a label aqui via JS>**".
+apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é **insira a label aqui via JS**".
 
 ## 🪟 Demonstração
 

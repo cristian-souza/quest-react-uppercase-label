@@ -1,12 +1,39 @@
-# React + Vite
+# 🔠 Quest React Basico - Vite + React
+Este é um projeto simples criado com Vite e React que colore e transforma um texto para maiúsculo (uppercase) utilizando JS, e com um componente Button com um evento de clique que
+apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é <insira a label aqui via JS>".
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🪟 Demonstração
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/2897f04f-39f0-4ba3-8e5a-6ce94a3e3e66
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades
 
-## Expanding the ESLint configuration
+- Transformação automática para letras maiúsculas
+- Estilização com cor personalizada
+- Interface moderna com React
+- Cliuqe no botão "Clique aqui" exibirar um Alert com a segunte mensagem "A label desse botão é **Clique aqui**"
+- Interface responsiva e de fácil uso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript (ES6+)
+- React
+- Vite
+
+## 📦 Instalação
+- Clone o repositório:
+git clone https://github.com/cristian-souza/quest-react-uppercase-label
+
+- Instale as dependências:
+npm install
+
+- Inicie o servidor de desenvolvimento:
+npm run dev
+
+
+## 👤 Autor
+
+Ctistian Souza - [Github](https://github.com/cristian-souza/quest-react-uppercase-label)
+               - [Vite](quest-react-uppercase-label.vercel.app)
